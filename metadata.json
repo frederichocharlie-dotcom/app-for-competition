@@ -1,0 +1,6 @@
+{
+  "name": "Palawa",
+  "description": "Asisten & Simulator berkebun rimbunlestari dengan bimbingan ekologi Palawa, Reverse Marketplace, dan Pelestarian Keanekaragaman Hayati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
